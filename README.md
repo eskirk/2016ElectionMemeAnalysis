@@ -1,4 +1,4 @@
-# 2016ElectionMemeAnalysis
+# 2016 Election Meme Analysis
 
 This project used a TFIDF analysis alongside a Random Forest Classifier to analyze the text content of memes.
 
